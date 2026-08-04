@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I am a developer passionate about building web & m
 * **Mobile App Architecture:** Built with clean Android development patterns, ensuring responsive UI layout and smooth user interaction.
 
 #### 🛠️ Tech Stack:
-`Android SDK` `Java / Kotlin` `Android Canvas` `Git`
+`Android SDK` `Java` `Android Canvas` `Git`
 
 👉 **[Click here to explore the Math-Practice-App Repository](https://github.com/Edgarip999/Math-Practice-App)**
 
