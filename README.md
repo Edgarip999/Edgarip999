@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I am a developer passionate about building web & m
 
 ## 🛠️ Languages & Skills
 
-* **Languages:** Java / Kotlin, PHP, JavaScript, HTML5, CSS3
+* **Languages:** Java, PHP, JavaScript, HTML5, CSS3
 * **Mobile & Web:** Android Studio, Android Canvas, RESTful APIs
 * **Database:** MySQL
 * **Tools & Version Control:** Git, GitHub
