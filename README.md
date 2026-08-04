@@ -24,26 +24,24 @@ Welcome to my GitHub profile! I am a developer passionate about building web & m
 👉 **[Click here to explore the Math-Practice-App Repository](https://github.com/Edgarip999/Math-Practice-App)**
 
 ---
-
-### 🏬 [retail-erp-PL-Furniture](https://github.com/Edgarip999/retail-erp-PL-Furniture)
+### 🖥️ [retail-erp-PL-Furniture](https://github.com/Edgarip999/retail-erp-PL-Furniture)
 > **👥 Group Project (Forked Repository)**
 
-> A collaborative Enterprise Resource Planning (ERP) and retail backend system tailored for furniture management, focusing on procedural logic, inventory tracking, and modular web components.
+> An Enterprise Resource Planning (ERP) application developed purely in **C#**, focusing on object-oriented system design, retail management logic, and enterprise inventory workflows.
 
-[![View Project](https://img.shields.io/badge/View_Repository-retail--erp--PL--Furniture-181717?style=for-the-badge&logo=github)](https://github.com/Edgarip999/retail-erp-PL-Furniture)
+[![View Project](https://img.shields.io/badge/View_Repository-retail--erp--PL--Furniture-239120?style=for-the-badge&logo=c-sharp)](https://github.com/Edgarip999/retail-erp-PL-Furniture)
 
 #### 👨‍💻 My Role & Contributions:
-* **Collaborative Development:** Forked and maintained module components within a team-based repository structure.
-* **Backend Logic & Inventory Control:** Developed server-side handlers and sorting utilities for retail management workflows.
-* **Git Collaboration:** Managed pull requests and branch synchronizations across team members.
+* **Object-Oriented Development:** Implemented core C# classes and data structures to model retail entities and inventory rules.
+* **Collaborative Engineering:** Forked and maintained module components using Git within a multi-developer team workflow.
+* **Business Logic:** Structured backend processing routines for stock updates and transaction records.
 
 #### 🛠️ Tech Stack:
-`PHP` `JavaScript` `HTML5` `CSS3` `MySQL` `Git`
+`C#` `.NET` `Git` `MySQL`
 
 👉 **[Click here to explore the retail-erp-PL-Furniture Repository](https://github.com/Edgarip999/retail-erp-PL-Furniture)**
 
 ---
-
 ### 🛋️ [Furniture-Store Web Application](https://github.com/Edgarip999/Furniture-Store)
 > **👥 Group Project (Forked Repository)**
 
@@ -65,7 +63,7 @@ Welcome to my GitHub profile! I am a developer passionate about building web & m
 
 ## 🛠️ Languages & Skills
 
-* **Languages:** Java, PHP, JavaScript, HTML5, CSS3
+* **Languages:** Java, PHP, JavaScript, HTML5, CSS3, C#
 * **Mobile & Web:** Android Studio, Android Canvas, RESTful APIs, Session Management
 * **Database:** MySQL
 * **Tools & Collaboration:** Git, GitHub (Forking & PR Workflows), Team Code Review
