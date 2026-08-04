@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I am a developer passionate about building web & m
 
 > An Enterprise Resource Planning (ERP) application developed purely in **C#**, focusing on object-oriented system design, retail management logic, and enterprise inventory workflows.
 
-[![View Project](https://img.shields.io/badge/View_Repository-Furniture--Store-181717?style=for-the-badge&logo=github)](https://github.com/Edgarip999/retail-erp-PL-Furniture)
+[![View Project](https://img.shields.io/badge/View_Repository-retail-erp-PL-Furniture-181717?style=for-the-badge&logo=github)](https://github.com/Edgarip999/retail-erp-PL-Furniture)
 
 #### 👨‍💻 My Role & Contributions:
 * **Object-Oriented Development:** Implemented core C# classes and data structures to model retail entities and inventory rules.
@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I am a developer passionate about building web & m
 
 > A full-stack e-commerce web platform built with PHP and MySQL, featuring dual-role authentication (Staff & Customer) and dynamic store management.
 
-[![View Project](https://img.shields.io/badge/View_Repository-Furniture--Store-181717?style=for-the-badge&logo=github)](https://github.com/Edgarip999/retail-erp-PL-Furniture)
+[![View Project](https://img.shields.io/badge/View_Repository-Furniture--Store-181717?style=for-the-badge&logo=github)](https://github.com/Edgarip999/Furniture-Store)
 
 #### 👨‍💻 My Role & Contributions:
 * **Dual-Role Management:** Co-designed and implemented customized features/workflows for both `Staff` and `Customer` accounts.
