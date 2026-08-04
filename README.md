@@ -1,10 +1,28 @@
 # Hi, I'm Edgar 👋
 
-Welcome to my GitHub profile! I am a developer passionate about building web applications and exploring modern technologies.
+Welcome to my GitHub profile! I am a developer passionate about building web & mobile applications, interactive UI systems, and exploring modern technologies.
 
 ---
 
 ## 🚀 Featured Projects
+
+### 📱 [Math-Practice-App](https://github.com/Edgarip999/Math-Practice-App)
+
+> An interactive Android application designed for mathematics learning and interactive practice, featuring custom UI components, real-time score tracking, and performance analytics.
+
+[![View Project](https://img.shields.io/badge/View_Repository-Math--Practice--App-107C41?style=for-the-badge&logo=android)](https://github.com/Edgarip999/Math-Practice-App)
+
+#### 👨‍💻 Key Highlights & Contributions:
+* **Interactive Learning Logic:** Engineered dynamic math question generators and real-time validation algorithms to track student accuracy and response speed.
+* **Custom UI & Canvas Visuals:** Utilized custom views and Canvas elements to display interactive problem-solving interfaces and progress charts.
+* **Mobile App Architecture:** Built with clean Android development patterns, ensuring responsive UI layout and smooth user interaction.
+
+#### 🛠️ Tech Stack:
+`Android SDK` `Java / Kotlin` `Android Canvas` `Git`
+
+👉 **[Click here to explore the Math-Practice-App Repository](https://github.com/Edgarip999/Math-Practice-App)**
+
+---
 
 ### 🛋️ [Furniture-Store Web Application](https://github.com/Edgarip999/Furniture-Store)
 
@@ -26,6 +44,7 @@ Welcome to my GitHub profile! I am a developer passionate about building web app
 
 ## 🛠️ Languages & Skills
 
-* **Languages:** PHP, JavaScript, HTML5, CSS3
+* **Languages:** Java / Kotlin, PHP, JavaScript, HTML5, CSS3
+* **Mobile & Web:** Android Studio, Android Canvas, RESTful APIs
 * **Database:** MySQL
 * **Tools & Version Control:** Git, GitHub
