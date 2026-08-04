@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a developer passionate about building web app
 
 ## 🚀 Featured Projects
 
-### 🛋️ [Furniture-Store Web Application](https://github.com/Edgarip999/Furniture-Store-Web-Site)
+### 🛋️ [Furniture-Store Web Application](https://github.com/Edgarip999/Furniture-Store)
 
 > A full-stack e-commerce platform built with PHP and MySQL, featuring dual-role authentication (Staff & Customer) and dynamic store management.
 
