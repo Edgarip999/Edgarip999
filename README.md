@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I am a developer passionate about building web & m
 
 > A real-time Android currency conversion application featuring live exchange rate integration via RESTful API, dynamic UI component handling, and financial-themed UI design.
 
-[![View Project](https://img.shields.io/badge/View_Repository-CurrencyConverter-107C41?style=for-the-badge&logo=android)](https://github.com/Edgarip999/CurrencyConverter)
 
 #### 👨‍💻 Key Highlights & Contributions:
 * **Live API Integration:** Implemented asynchronous HTTP network requests using **Volley** to fetch live foreign exchange rates from ExchangeRate-API.
