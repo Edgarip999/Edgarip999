@@ -6,6 +6,25 @@ Welcome to my GitHub profile! I am a developer passionate about building web & m
 
 ## 🚀 Featured Projects
 
+### 💱 [CurrencyConverter](https://github.com/Edgarip999/CurrencyConverter)
+> **👤 Individual Project**
+
+> A real-time Android currency conversion application featuring live exchange rate integration via RESTful API, dynamic UI component handling, and financial-themed UI design.
+
+[![View Project](https://img.shields.io/badge/View_Repository-CurrencyConverter-107C41?style=for-the-badge&logo=android)](https://github.com/Edgarip999/CurrencyConverter)
+
+#### 👨‍💻 Key Highlights & Contributions:
+* **Live API Integration:** Implemented asynchronous HTTP network requests using **Volley** to fetch live foreign exchange rates from ExchangeRate-API.
+* **JSON Parsing & Data Handling:** Processed and parsed multi-currency JSON response payloads to compute instant conversions across global currencies (HKD, EUR, JPY, GBP, CNY, etc.).
+* **Financial UI Design:** Designed a clean, user-friendly interface with custom Spinner selectors and structured input validation.
+
+#### 🛠️ Tech Stack:
+`Android SDK` `Java` `RESTful API` `Volley` `JSON` `Git`
+
+👉 **[Click here to explore the CurrencyConverter Repository](https://github.com/Edgarip999/CurrencyConverter)**
+
+---
+
 ### 📱 [Math-Practice-App](https://github.com/Edgarip999/Math-Practice-App)
 > **👤 Individual Project**
 
